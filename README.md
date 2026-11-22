@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Abdullah Latif · Full-stack development and applied AI" width="100%">
+  <img src="./full-stack-banner.svg" alt="Abdullah Latif · Full-stack development and applied AI" width="100%">
 </p>
 
 I'm a final-year Software Engineering student at **FAST-NUCES Lahore**. I build full-stack web apps with React, Next.js and Node.js. I also build AI features that extract structured data from documents and automate manual work.
@@ -41,4 +41,4 @@ An n8n workflow that uses GPT-4o to extract invoice fields into Google Sheets. I
 ## What I'm exploring
 
 - Designing APIs that support authentication and real-time features.
-- Validating AI extracted data and routing uncertain results for review.
+- Validating data extracted by AI and routing uncertain results for review.
