@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./full-stack-banner.svg" alt="Abdullah Latif · Full-stack development and applied AI" width="100%">
+  <img src="./software-engineer-banner.svg" alt="Abdullah Latif · Software Engineer · Full-stack development and applied AI" width="100%">
 </p>
 
 I'm a final-year Software Engineering student at **FAST-NUCES Lahore**. I build full-stack web apps with React, Next.js and Node.js. I also build AI features that extract structured data from documents and automate manual work.
@@ -37,6 +37,16 @@ I'm a final-year Software Engineering student at **FAST-NUCES Lahore**. I build 
   <img src="https://cdn.simpleicons.org/googlegemini/5E75D7" alt="Gemini API" title="Gemini API" width="46" height="46" />&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="46" height="46" />
 </p>
+
+## Experience
+
+### Part-time Full-Stack Developer · TRON AITECH (Private) Limited
+
+Started as an intern and progressed to a part-time full-stack developer role. [Read the LinkedIn announcement](https://www.linkedin.com/feed/update/urn:li:activity:7433538095066734592/).
+
+### Freelance Software Engineer
+
+[View the LinkedIn role announcement](https://www.linkedin.com/feed/update/urn:li:activity:7264616590388744192/).
 
 ## Selected projects
 
