@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="232" viewBox="0 0 1000 232">
-  <title>Abdullah Latif · Full-stack development and applied AI</title>
+  <title>Abdullah Latif · Software Engineer · Full-stack development and applied AI</title>
   <defs>
     <linearGradient id="backdrop" x1="0" y1="0" x2="100%" y2="100%">
       <stop stop-color="#0B1327"/>
@@ -26,7 +26,7 @@
     <path d="M603 232 763 0M658 232 818 0" fill="none" stroke="#91B4FF" stroke-opacity=".19"/>
     <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
       <circle cx="61" cy="52" r="4.5" fill="#8DF5D5"/>
-      <text x="77" y="59" fill="#9BEBD7" font-size="18" font-weight="700" letter-spacing="2">FAST-NUCES LAHORE</text>
+      <text x="77" y="59" fill="#9BEBD7" font-size="18" font-weight="700" letter-spacing="1.2">Software Engineer</text>
       <text x="54" y="133" fill="#F6F8FF" font-size="70" font-weight="750" letter-spacing="-2">Abdullah Latif</text>
       <text x="57" y="177" fill="#C6D8F4" font-size="27" font-weight="500">Full-stack development · Applied AI</text>
     </g>
