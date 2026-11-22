@@ -14,9 +14,19 @@ I'm a final-year Software Engineering student at **FAST-NUCES Lahore**. I build 
 
 <h2 align="center">⚙️ Languages and Tools</h2>
 
-<p align="center"><strong>Web development</strong></p>
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="46" height="46" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="46" height="46" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" alt="Java" title="Java" width="46" height="46" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg" alt="C" title="C" width="46" height="46" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="46" height="46" />&nbsp;
+  <img src="https://api.iconify.design/vscode-icons/file-type-sql.svg" alt="SQL" title="SQL" width="46" height="46" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="46" height="46" />
+</p>
+
+<p align="center"><strong>Web development</strong></p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="46" height="46" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="46" height="46" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="46" height="46" />&nbsp;
@@ -30,12 +40,13 @@ I'm a final-year Software Engineering student at **FAST-NUCES Lahore**. I build 
 <p align="center"><strong>Automation and infrastructure</strong></p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="46" height="46" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="46" height="46" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="46" height="46" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="46" height="46" />&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="46" height="46" />&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/5E75D7" alt="Gemini API" title="Gemini API" width="46" height="46" />&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="46" height="46" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="46" height="46" />&nbsp;
+  <img src="https://cdn.simpleicons.org/make/9B3DD7" alt="Make.com" title="Make.com" width="46" height="46" />&nbsp;
+  <img src="https://logoapi.sh/icon/monday.com.svg" alt="monday.com" title="monday.com" width="46" height="46" />
 </p>
 
 ## Experience
